@@ -1,0 +1,10 @@
+Yakup Yüce:45,85,75
+Ayşe Demir:85,10,34
+Ali Tunç:45,95,10
+Veli Demir:15,60,45
+Ahmet Ünlü:15,5,26
+Burak Yılmaz:85,95,100
+Hakan Fidan:84,45,95
+Arda Güler:84,75,66
+Hakan Çalhanoğlu:74,95,35
+Barış Alper Yılmaz:75,48,15
